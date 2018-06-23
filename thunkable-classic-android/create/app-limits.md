@@ -2,9 +2,9 @@
 
 | Element | Limit |
 | :--- | :--- |
-| App size | 10 MB |
+| App size | 80 MB |
 | App icon size | 96 x 96 px \(recommended\) |
-| Screens | Up to 10 \(recommended\)\* |
+| Screens | Up to 100 \(recommended\)\* |
 
 {% hint style="info" %}
 Thunkable will not prevent you from creating an app with more than 10 screens. But be aware that if you do that, you are in danger of exceeding the processing and memory limitations of many Android devices as well as your browser. 
